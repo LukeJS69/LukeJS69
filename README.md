@@ -26,7 +26,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/lukejs"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lukejs" /></a></p>
 <p></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukejs69&show_icons=true&locale=en" alt="lukejs69" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukejs69&" alt="lukejs69" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukejs69&show_icons=true&locale=en" alt="lukejs69" /></p>
+
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukejs69&" alt="lukejs69" /></p>
